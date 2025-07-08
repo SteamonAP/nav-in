@@ -1,6 +1,6 @@
 {
-  "name": "nav-in",
-  "version": "1.0.0",
+  "name": "@amoghp/nav-in",
+  "version": "1.0.1",
   "type": "module",
   "description": "",
   "main": "dist/index.js",
